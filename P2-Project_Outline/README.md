@@ -7,7 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This project will be a job search tracker that will allow job seekers to track their job search journies.
+
+Users will be able to create an account, log in, input relevant information for job postings they're interested, track interviews and where they are in the job search process for each job posting.
+
+I decided to make this project because I heard from other self-taught programmers that they often applied to hundreds of positions, interviewed with a dozen-or-so companies, before they landed their first jobs. With this much work involved in job search, I want a tracking tool, that is more visually pleasing and scalable than my usual Excel spreadsheets, to help me be more effective.
+
 ### Features
 Include Features here
 ### Technologies
