@@ -20,10 +20,18 @@ I decided to make this project because I heard from other self-taught programmer
 - Create, edit and delete job-related appointments: Each user will be able to manage his job search-related appointments. (E.g. phone and on-site interviews)
 - Dashboard: Users will be able view at-a-glance their upcoming asppointments and the job postings they are interested in.
 - Search / List job postings: Users will be able to search and/or thier job listings by a variety of pre-defined criteria. (E.g. company name, employment type, location, etc.)
-- [II] Admin: An admin with the ability to create, edit and delete users.
+- (TBD) Admin: An admin with the ability to create, edit and delete users.
 
 ### Technologies
-Include Technologies here
+- Java
+- Spring Boot
+- MySQL
+- Thymeleaf (or Angular/TypeScript)
+- Bootstrap (or Angular Material)
+- (TBD) Spring Security
+- (TBD) Spring Mobile
+- (TBD) Google Calendar API
+
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
