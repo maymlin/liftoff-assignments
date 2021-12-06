@@ -44,4 +44,4 @@ Along the way I expect to learn some Java libraries so I don't have to create al
 Lastly, if there is time left in the program (or maybe after LiftOff ends), there are additional features that I would like to add and corresponding technologies that I will need to learn (E.g. Google Calendar API, Indeed API, etc.) to create these features.
 
 ### Project Tracker
-Link to your Trello board here
+[Job Search Trcker](https://trello.com/b/i2kRF0Ur/liftoff-job-search-tracker)
