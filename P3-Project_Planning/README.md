@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Wireframes]
+[Wireframes](https://github.com/maymlin/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes_211212.pdf)
 
 - Login
 - Sign up
