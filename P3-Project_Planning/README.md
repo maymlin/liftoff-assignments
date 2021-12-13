@@ -24,4 +24,4 @@ For this assignment, you'll create some initial plans for your project.
 ![Trello board screenshot](https://github.com/maymlin/liftoff-assignments/blob/master/P3-Project_Planning/P3_Trello_Board_Snapshot.JPG)
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Job Search Tracker](https://github.com/maymlin/JobSearchTracker)
