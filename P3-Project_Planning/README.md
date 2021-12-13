@@ -8,11 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- Login
+- Sign up
+- Dashboard (2 pages)
+- Job Opening Details 
+- List All Jobs
+- Search Reults (2 pages)
+- Profile
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello board](https://trello.com/b/i2kRF0Ur/liftoff-job-search-tracker)
 
 ### Project Repo Link
 
