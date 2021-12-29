@@ -26,6 +26,7 @@ I decided to make this project because I heard from other self-taught programmer
 ### Technologies
 - Java
 - Spring Boot
+- Hibernate
 - MySQL
 - Thymeleaf (or Angular/TypeScript)
 - Bootstrap (or Angular Material)
